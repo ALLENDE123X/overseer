@@ -1,6 +1,6 @@
-# runos-mini
+# AgentOS: Kubernetes for Multi-Agent Systems
 
-Kubernetes for Multi-Agent Systems: a minimal multi-agent orchestration system with declarative graphs, parallel execution, and replay
+a minimal multi-agent orchestration system with declarative graphs, parallel execution, and replay
 
 ## features
 
