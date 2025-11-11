@@ -1,6 +1,6 @@
 # runos-mini
 
-minimal multi-agent orchestration system with declarative graphs, parallel execution, and replay
+Kubernetes for Multi-Agent Systems: a minimal multi-agent orchestration system with declarative graphs, parallel execution, and replay
 
 ## features
 
